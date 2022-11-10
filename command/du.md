@@ -73,6 +73,7 @@ ubuntu@VM-0-14-ubuntu:~/git-work/linux-command$ du -sh ./*/
 148K    ./template/
 ```
 
+#这个`du ./*`也是查看目录的空间，不包含文件的，例子错误，建议删掉
 查看指定目录下文件所占的空间：
 
 ```shell
